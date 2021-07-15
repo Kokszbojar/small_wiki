@@ -1,4 +1,4 @@
-# small_wiki
+# small_wiki http://kokszbojar.pythonanywhere.com
 My first django web app project
 
 This web app is a prettier version of wikipedia
